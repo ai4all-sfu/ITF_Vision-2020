@@ -5,7 +5,7 @@ Facial Emotion Recognition on FER2013 Dataset.
 ![emotions](https://miro.medium.com/max/2000/1*cic1zMaNEcVgGKRXpsUbGA.png)
 ## Getting Started
 
-All of the code you will run in this two week program will be in the format of Jupyter Notebooks.
+All of the code you will run in this project will be in the format of Jupyter Notebooks.
 
 ### What is Machine Learning
 
@@ -40,31 +40,28 @@ In this project we would like to recognize emotions of the given image into 6 ca
 'Sad', 'Surprise', 'Neutral' using both classification and neural networks.
 
 #### Beginners (Level-1) - Mandatory
-
 #### Data
-The commonly used dataset for this image classification is [FER2013](https://www.kaggle.com/deadskull7/fer2013) 
+- The commonly used dataset for this image classification is [FER2013](https://www.kaggle.com/deadskull7/fer2013) 
 / Face Expression
 Recognition which prepared by Pierre-Luc Carrier and Aaron Courville. The dataset contains 35,887 grayscale images of faces with 48*48 pixels. 
 There are 7 categories: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral.
 In this dataset images contain emotion labels (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral)
+- Run each step in the `Visualization.ipynb` file and complete `TODO` parts in the notebook to understand dataset.
 
-Run each step in the `Visualization.ipynb` file and complete `TODO` parts in the notebook to understand dataset.
-
-#### Training and Test Data
+#### Train/Test
 As we said before, the model learns on a labeled dataset. Training data is used for the learning process. 
 Test data is independent of the training data, used for assessing how good the model is.
 
 ##### Classification
-Run each step in the `Classification.ipynb` file and complete `TODO` parts in the notebook. 
+- Run each step in the `Classification.ipynb` file and complete `TODO` parts in the notebook. 
 ##### Neural Network
-Run each step in the `NeuralNetwork.ipynb` file and complete `TODO` parts in the notebook. 
+- Run each step in the `NeuralNetwork.ipynb` file and complete `TODO` parts in the notebook. 
 
 #### Advanced (Level-2)- Optional
-
-Complete Beginners (Level-1)
+- Complete Beginners (Level-1) code
 ##### Real Time Application
-Multiple face detection and emotion ecognition on live stream data.
-Run each step in the `Real-Time-Application.py` file and complete `TODO` parts.
+- Multiple face detection and emotion ecognition on live stream data.
+- Run each step in the `Real-Time-Application.py` file and complete `TODO` parts.
 
 ### Final Thoughts on Facial Emotion Classification
 
