@@ -39,7 +39,7 @@ Neural networks (NN) or artificial neural networks are computing systems inspire
 In this project we would like to recognize emotions of the given image into 6 categories 'Angry', 'Fear', 'Happy', 
 'Sad', 'Surprise', 'Neutral' using both classification and neural networks.
 
-#### Beginners (Level-1) - Mandatory
+### Beginners (Level-1) - Mandatory
 #### Data
 - The commonly used dataset for this image classification is [FER2013](https://www.kaggle.com/deadskull7/fer2013) 
 / Face Expression
@@ -52,14 +52,14 @@ In this dataset images contain emotion labels (0=Angry, 1=Disgust, 2=Fear, 3=Hap
 As we said before, the model learns on a labeled dataset. Training data is used for the learning process. 
 Test data is independent of the training data, used for assessing how good the model is.
 
-##### Classification
+#### Classification
 - Run each step in the `Classification.ipynb` file and complete `TODO` parts in the notebook. 
-##### Neural Network
+#### Neural Network
 - Run each step in the `NeuralNetwork.ipynb` file and complete `TODO` parts in the notebook. 
 
-#### Advanced (Level-2)- Optional
+### Advanced (Level-2)- Optional
 - Complete Beginners (Level-1) code
-##### Real Time Application
+#### Real Time Application
 - Multiple face detection and emotion ecognition on live stream data.
 - Run each step in the `Real-Time-Application.py` file and complete `TODO` parts.
 
