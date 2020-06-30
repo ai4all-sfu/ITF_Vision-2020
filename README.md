@@ -60,7 +60,7 @@ Test data is independent of the training data, used for assessing how good the m
 ### Advanced (Level-2)- Optional
 - Complete Beginners (Level-1) code
 #### Real Time Application
-- Multiple face detection and emotion ecognition on live stream data.
+- Multiple face detection and emotion recognition on live stream data.
 - Run each step in the `Real-Time-Application.py` file and complete `TODO` parts.
 
 ### Final Thoughts on Facial Emotion Classification
