@@ -60,7 +60,7 @@ Test data is independent of the training data, used for assessing how good the m
 ### Advanced (Level-2)- Optional
 - Complete Beginners (Level-1) code
 #### Real Time Application
-- Multiple face detection and emotion ecognition on live stream data.
+- Multiple face detection and emotion recognition on live stream data.
 - Run each step in the `Real-Time-Application.py` file and complete `TODO` parts.
 
 ### Final Thoughts on Facial Emotion Classification
@@ -69,7 +69,7 @@ Test data is independent of the training data, used for assessing how good the m
 
 2. What about less exaggerated images?
 
-    ![](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/4592603/timroth.jpg)  
+    ![contempt](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/4592603/timroth.jpg)  
   
 3. What about other categories of emotions?
 
@@ -82,7 +82,7 @@ As a result, AI can detect a scowl, but that’s not the same thing as detecting
 of anger; they’re an expression of anger — one among many. That means that more than 70 percent of the time, 
 people do not scowl when they’re angry. And on top of that, they scowl often when they’re not angry. 
 
-####Facial Action Coding System - FACS
+#### Facial Action Coding System - FACS
 Using FACS human coders can manually code nearly any anatomically possible facial expression, deconstructing it into
 the specific action units (AU) and their temporal segments that produced the expression.
 
